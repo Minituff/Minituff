@@ -1,5 +1,8 @@
 ### Hi there 👋
+![Twitter Follow](https://img.shields.io/twitter/follow/minituff?style=social)
 
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC_zqslAVRM2aSoLU73oToUg?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_zqslAVRM2aSoLU73oToUg?style=social)
 <!--
 **Minituff/Minituff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
