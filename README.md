@@ -9,9 +9,9 @@
 * [<img src="https://img.shields.io/youtube/channel/views/UC_zqslAVRM2aSoLU73oToUg?style=social" height="20em" align="center" alt="YouTube" title="My YouTube"/>](https://www.youtube.com/minituff)
 [<img src="https://img.shields.io/youtube/channel/subscribers/UC_zqslAVRM2aSoLU73oToUg?style=social" height="20em" align="center" alt="YouTube" title="My YouTube"/>](https://www.youtube.com/minituff)
 
-* [![wakatime](https://wakatime.com/badge/user/d25089ba-3eb3-432d-8f86-52ba596c3d34.svg)](https://wakatime.com/@d25089ba-3eb3-432d-8f86-52ba596c3d34)
+* [![wakatime](https://wakatime.com/badge/user/d25089ba-3eb3-432d-8f86-52ba596c3d34.svg)](https://wakatime.com/@minituff)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minituff)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=12&layout=compact)](https://wakatime.com/@minituff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minituff&hide=TeX&layout=compact)
 
