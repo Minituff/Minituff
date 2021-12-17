@@ -1,8 +1,12 @@
 ### Hi there 👋
-![Twitter Follow](https://img.shields.io/twitter/follow/minituff?style=social)
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC_zqslAVRM2aSoLU73oToUg?style=social)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_zqslAVRM2aSoLU73oToUg?style=social)
+* [<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&lbaleColor=blue" height="20em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/james-tufarelli/)
+  
+* [<img src="https://img.shields.io/twitter/follow/minituff?style=social" height="20em" align="center" alt="Twitter" title="My Twitter"/>](https://twitter.com/Minituf)
+
+* [<img src="https://img.shields.io/youtube/channel/views/UC_zqslAVRM2aSoLU73oToUg?style=social" height="20em" align="center" alt="YouTube" title="My YouTube"/>](https://www.youtube.com/minituff)
+[<img src="https://img.shields.io/youtube/channel/subscribers/UC_zqslAVRM2aSoLU73oToUg?style=social" height="20em" align="center" alt="YouTube" title="My YouTube"/>](https://www.youtube.com/minituff)
+
 <!--
 **Minituff/Minituff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
