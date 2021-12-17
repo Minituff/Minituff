@@ -1,4 +1,5 @@
 <!--  Remember to switch this from dev to main branch-->
+<!--  Edit link: https://86irk.csb.app/-->
 [<img src="https://raw.githubusercontent.com/Minituff/Minituff/dev/header.gif" alt="👋 Hi there! I'm James Tufarelli" title="👋  Hi there! I'm James Tufarelli"/>](https://james.tufarelli.me/)
 
 * [<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&lbaleColor=blue" height="20em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/james-tufarelli/)
@@ -7,6 +8,12 @@
 
 * [<img src="https://img.shields.io/youtube/channel/views/UC_zqslAVRM2aSoLU73oToUg?style=social" height="20em" align="center" alt="YouTube" title="My YouTube"/>](https://www.youtube.com/minituff)
 [<img src="https://img.shields.io/youtube/channel/subscribers/UC_zqslAVRM2aSoLU73oToUg?style=social" height="20em" align="center" alt="YouTube" title="My YouTube"/>](https://www.youtube.com/minituff)
+
+* [![wakatime](https://wakatime.com/badge/user/d25089ba-3eb3-432d-8f86-52ba596c3d34.svg)](https://wakatime.com/@d25089ba-3eb3-432d-8f86-52ba596c3d34)
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minituff)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minituff&hide=TeX&layout=compact)
 
 <!--
 **Minituff/Minituff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
