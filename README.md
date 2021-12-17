@@ -1,4 +1,5 @@
-### Hi there 👋
+<!--  Remember to switch this from dev to main branch-->
+[<img src="https://raw.githubusercontent.com/Minituff/Minituff/dev/header.gif" alt="👋 Hi there! I'm James Tufarelli" title="👋  Hi there! I'm James Tufarelli"/>](https://james.tufarelli.me/)
 
 * [<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&lbaleColor=blue" height="20em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/james-tufarelli/)
   
