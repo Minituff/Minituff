@@ -23,6 +23,8 @@
 
 <div align="center">
   
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=minituff.minituff&left_color=green&right_color=red)
+  
   [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=12&layout=compact)](https://wakatime.com/@minituff)
 
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minituff&hide=TeX&layout=compact) -->
