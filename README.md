@@ -14,6 +14,13 @@
 
 <figure><embed src="https://wakatime.com/share/@minituff/d054a73c-93f4-4c5c-be47-5e23e25f565d.svg"></embed></figure>
  
+ <br> 
+ <br>
+ 
+ Hi, I'm [James Tufarelli](https://jamestufarelli.com), a full-stack developer living in San Diego, CA. I began my career as a network engineer in the Air Force, but quickly realized I needed custom code to automate many of my daily tasks. I developed a passion for software as I began to write more code throught my career. Today, I work as a self-taught software engineer focusing on many different types of technologies.
+ 
+<br>
+ <br>
 <!--   [<img src="https://raw.githubusercontent.com/Minituff/Minituff/dev/header.gif" alt="👋 Hi there! I'm James Tufarelli" title="👋  Hi there! I'm James Tufarelli"/>](https://jamestufarelli.com/) -->
 
 <br>
@@ -59,7 +66,7 @@ TODO: Add images
 * [Bachelor's Degree](https://www.parchment.com/u/award/f567052386bf98a29872aa10fb671d30)
 
 
-## ⚡ Technologies
+## 🔧 Technologies
 TODO: Will update soon. I don't know all of these, and there are some I need to add.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -91,6 +98,8 @@ TODO: Will update soon. I don't know all of these, and there are some I need to 
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Bitcoin](https://img.shields.io/static/v1?style=for-the-badge&message=Bitcoin&color=222222&logo=Bitcoin&logoColor=F7931A&label=)
+![Atlassian](https://img.shields.io/static/v1?style=for-the-badge&message=Atlassian&color=0052CC&logo=Atlassian&logoColor=FFFFFF&label=)
 
 <!--
 GithubReadme stats: https://github.com/anuraghazra/github-readme-stats
