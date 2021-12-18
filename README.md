@@ -1,6 +1,6 @@
 <!--  Remember to switch this from dev to main branch-->
 <!--  Edit link: https://86irk.csb.app/-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=25&vCenter=true&height=25&lines=%22Hello+Word%2C+I'm+James%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=25&vCenter=true&height=25&lines=%22Hello+World%2C+I'm+James%22)](https://git.io/typing-svg)
 
 <a href="https://twitter.com/minituff" title="Twitter: @minituff"><img align="left" alt="Minituff | Twitter" width="22px" src="media/twitter.svg"/></a>
   
