@@ -1,20 +1,23 @@
 <!--  Remember to switch this from dev to main branch-->
 <!--  Edit link: https://86irk.csb.app/-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=25&lines=%22Hello+Word%2C+I'm+James%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=25&vCenter=true&height=25&lines=%22Hello+Word%2C+I'm+James%22)](https://git.io/typing-svg)
 
-<div align="center"></div>
-<a href="https://twitter.com/minituff">
-  <img align="left" alt="Minituff | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+<a href="https://twitter.com/minituff" title="Twitter: @minituff"><img align="left" alt="Minituff | Twitter" width="22px" src="media/twitter.svg"/></a>
   
-<a href="https://www.linkedin.com/in/james-tufarelli/">
-  <img align="left" alt="James Tufarelli's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<a href="https://www.linkedin.com/in/james-tufarelli/" title="LinkedIn: james-tufarelli"><img align="left" alt="James Tufarelli's LinkedIN" width="22px" src="media/linkedin.svg"/></a>
+
+<a href="https://youtube.com/minituff" title="YouTube: minituff"><img align="left" alt="Minituff | YouTube" width="22px" src="media/youtube.svg"/></a>
+ 
+<a href="https://wakatime.com/@minituff" title="Total time coded since Aug 8 2019"><img align="left" alt="Minituff | WakaTime" src="https://wakatime.com/badge/user/d25089ba-3eb3-432d-8f86-52ba596c3d34.svg?style=flat"/></a>
   
+<a href="https://visitor-badge.glitch.me" title="Profile Visitors"><img align="left" alt="Minituff | Profile Visitors" src="https://visitor-badge.glitch.me/badge?page_id=minituff.minituff"/></a>
+
+<figure><embed src="https://wakatime.com/share/@minituff/d054a73c-93f4-4c5c-be47-5e23e25f565d.svg"></embed></figure>
+ 
 <!--   [<img src="https://raw.githubusercontent.com/Minituff/Minituff/dev/header.gif" alt="👋 Hi there! I'm James Tufarelli" title="👋  Hi there! I'm James Tufarelli"/>](https://jamestufarelli.com/) -->
 
-
-<div align="center">
+<br>
+<!-- <div align="center">
 
   [<img src="https://img.shields.io/badge/-james--tufarelli-blue?style=flat-square&logo=Linkedin&logoColor=white" height="25em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/james-tufarelli/)
 
@@ -23,13 +26,13 @@
   [<img src="https://img.shields.io/youtube/channel/views/UC_zqslAVRM2aSoLU73oToUg?style=social" height="25em" align="center" alt="YouTube" title="My YouTube"/>](https://www.youtube.com/minituff)
   [<img src="https://img.shields.io/youtube/channel/subscribers/UC_zqslAVRM2aSoLU73oToUg?style=social" height="25em" align="center" alt="YouTube" title="My YouTube"/>](https://www.youtube.com/minituff)
   
-  [<img src="https://wakatime.com/badge/user/d25089ba-3eb3-432d-8f86-52ba596c3d34.svg" height="25em" align="center" alt="Twitter" title="Wakatime"/>](https://wakatime.com/@minituff)
+  [<img src="https://wakatime.com/badge/user/d25089ba-3eb3-432d-8f86-52ba596c3d34.svg" height="25em" align="center" alt="Wakatime" title="Wakatime"/>](https://wakatime.com/@minituff)
 
-</div>
+</div> -->
 
 <div align="center">
   
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=minituff.minituff&left_color=green&right_color=red)
+<!--   ![visitors](https://visitor-badge.glitch.me/badge?page_id=minituff.minituff) -->
   
   [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=12&layout=compact)](https://wakatime.com/@minituff)
 
