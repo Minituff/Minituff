@@ -1,11 +1,17 @@
 <!--  Remember to switch this from dev to main branch-->
 <!--  Edit link: https://86irk.csb.app/-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=25&lines=%22Hello+Word%2C+I'm+James%22)](https://git.io/typing-svg)
 
-<div align="center">
+<div align="center"></div>
+<a href="https://twitter.com/minituff">
+  <img align="left" alt="Minituff | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
   
-  [<img src="https://raw.githubusercontent.com/Minituff/Minituff/dev/header.gif" alt="👋 Hi there! I'm James Tufarelli" title="👋  Hi there! I'm James Tufarelli"/>](https://jamestufarelli.com/)
+<a href="https://www.linkedin.com/in/james-tufarelli/">
+  <img align="left" alt="James Tufarelli's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
   
-</div>
+<!--   [<img src="https://raw.githubusercontent.com/Minituff/Minituff/dev/header.gif" alt="👋 Hi there! I'm James Tufarelli" title="👋  Hi there! I'm James Tufarelli"/>](https://jamestufarelli.com/) -->
 
 
 <div align="center">
@@ -39,6 +45,8 @@
   <img alt="" width="49%" src="https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars" href="https://github.com/" /> -->
   
 </a>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## ⚡ Credentials
 TODO: Add images
