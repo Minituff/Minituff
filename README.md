@@ -17,7 +17,7 @@
  <br> 
  <br>
  
- Hi, I'm [James Tufarelli](https://jamestufarelli.com), a full-stack developer living in San Diego, CA. I began my career as a network engineer in the Air Force, but quickly realized I needed custom code to automate many of my daily tasks. I developed a passion for software as I began to write more code throught my career. Today, I work as a self-taught software engineer focusing on many different types of technologies.
+ Hi, I'm [James Tufarelli](https://jamestufarelli.com), a full-stack developer living in San Diego, CA. I began my career as a network engineer in the Air Force, but quickly realized I needed custom code to automate many of my daily tasks. I developed a passion for software as I began to write more code throughout my career. Today, I work as a self-taught software engineer focusing on many different types of technologies.
  
 <br>
  <br>
