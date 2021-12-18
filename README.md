@@ -7,16 +7,17 @@
   
 </div>
 
+
 <div align="center">
+
+  [<img src="https://img.shields.io/badge/-james--tufarelli-blue?style=flat-square&logo=Linkedin&logoColor=white" height="25em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/james-tufarelli/)
+
+  [<img src="https://img.shields.io/badge/-@minituff-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" height="25em" align="center" alt="Twitter" title="My Twitter"/>](https://twitter.com/Minituff)
+
+  [<img src="https://img.shields.io/youtube/channel/views/UC_zqslAVRM2aSoLU73oToUg?style=social" height="25em" align="center" alt="YouTube" title="My YouTube"/>](https://www.youtube.com/minituff)
+  [<img src="https://img.shields.io/youtube/channel/subscribers/UC_zqslAVRM2aSoLU73oToUg?style=social" height="25em" align="center" alt="YouTube" title="My YouTube"/>](https://www.youtube.com/minituff)
   
-  [<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&lbaleColor=blue" height="20em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/james-tufarelli/)
-
-  [<img src="https://img.shields.io/twitter/follow/minituff?style=social" height="20em" align="center" alt="Twitter" title="My Twitter"/>](https://twitter.com/Minituff)
-
-  [<img src="https://img.shields.io/youtube/channel/views/UC_zqslAVRM2aSoLU73oToUg?style=social" height="20em" align="center" alt="YouTube" title="My YouTube"/>](https://www.youtube.com/minituff)
-  [<img src="https://img.shields.io/youtube/channel/subscribers/UC_zqslAVRM2aSoLU73oToUg?style=social" height="20em" align="center" alt="YouTube" title="My YouTube"/>](https://www.youtube.com/minituff)
-
-  [![wakatime](https://wakatime.com/badge/user/d25089ba-3eb3-432d-8f86-52ba596c3d34.svg)](https://wakatime.com/@minituff)
+  [<img src="https://wakatime.com/badge/user/d25089ba-3eb3-432d-8f86-52ba596c3d34.svg" height="25em" align="center" alt="Twitter" title="Wakatime"/>](https://wakatime.com/@minituff)
 
 </div>
 
@@ -29,6 +30,13 @@
   ![Github Stats](https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars)
 
 </div>
+
+<!-- / Trying to place them side by side-->
+<!-- <a  href="https://wakatime.com/@minituff">
+  <img alt="" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=12&layout=compact" href="https://github.com/" />
+  <img alt="" width="49%" src="https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars" href="https://github.com/" /> -->
+  
+</a>
 
 ## ⚡ Credentials
 TODO: Add images
@@ -50,7 +58,7 @@ TODO: Will update soon. I don't know all of these, and there are some I need to 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
@@ -69,8 +77,10 @@ TODO: Will update soon. I don't know all of these, and there are some I need to 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 <!--
+Useful shields.io links: https://github.com/progfay/shields-with-icon
 **Minituff/Minituff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
