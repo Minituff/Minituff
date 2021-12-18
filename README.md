@@ -93,7 +93,9 @@ TODO: Will update soon. I don't know all of these, and there are some I need to 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 <!--
+GithubReadme stats: https://github.com/anuraghazra/github-readme-stats
 Useful shields.io links: https://github.com/progfay/shields-with-icon
+Header SVG Maker: https://readme-typing-svg.herokuapp.com/
 **Minituff/Minituff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
