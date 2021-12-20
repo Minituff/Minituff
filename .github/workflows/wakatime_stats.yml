@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - nothing # Should never run
-      # - main
+      - main
       # - dev
   schedule:
     - cron: '0 */24 * * *' # every 24 hours
