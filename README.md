@@ -83,32 +83,13 @@ TODO: update these
 
  Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
+
+<br>
 <br>
 
-
-
-
- 
-<!--   [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=12&layout=compact)](https://wakatime.com/@minituff) -->
-
-<!--   ![Github Stats](https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars) -->
-
-
-
-<!-- / Trying to place them side by side-->
-<!-- <a  href="https://wakatime.com/@minituff">
-  <img alt="" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=12&layout=compact" href="https://github.com/" />
-  <img alt="" width="49%" src="https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars" href="https://github.com/" /> -->
-  
-</a>
-
+## ⚡ Credentials
 
 <img align="right" src="https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars" width="490"/>
-<!-- <img src="https://readme-jokes.vercel.app/api" width="400"/> -->
-
-
-
-## ⚡ Credentials
 
 TODO: Add images
 
