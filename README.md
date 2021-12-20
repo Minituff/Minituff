@@ -83,6 +83,9 @@ TODO: Will update soon. I don't know all of these, and there are some I need to 
 ![Bitcoin](https://img.shields.io/static/v1?style=for-the-badge&message=Bitcoin&color=222222&logo=Bitcoin&logoColor=F7931A&label=)
 ![Atlassian](https://img.shields.io/static/v1?style=for-the-badge&message=Atlassian&color=0052CC&logo=Atlassian&logoColor=FFFFFF&label=)
 
+<!-- https://github.com/kyechan99/capsule-render -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+
 <!--
 GithubReadme stats: https://github.com/anuraghazra/github-readme-stats
 Useful shields.io links: https://github.com/progfay/shields-with-icon
