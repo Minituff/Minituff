@@ -1,7 +1,9 @@
 <!--  Remember to switch this from dev to main branch-->
 
 <!--  Edit link: https://86irk.csb.app/-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=25&vCenter=true&height=25&lines=%22Hello+World%2C+I'm+James%22)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=25&vCenter=true&height=25&lines=%22Hello+World%2C+I'm+James%22)](https://git.io/typing-svg) -->
+
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=James%20Tufarelli&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Developer&descAlignY=51&descAlign=700)](https://jamestufarelli.com)
 
 <a href="https://twitter.com/minituff" title="Twitter: @minituff"><img align="left" alt="Minituff | Twitter" width="22px" src="media/twitter.svg"/></a>
   
