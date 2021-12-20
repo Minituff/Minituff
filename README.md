@@ -71,7 +71,7 @@ TODO: update these
 
 **🐱 My Github Data** 
 
-> 🏆 210 Contributions in the Year 2021
+> 🏆 221 Contributions in the Year 2021
  > 
 > 📦 602.1 kB Used in Github's Storage 
  > 
