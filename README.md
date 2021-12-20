@@ -26,12 +26,13 @@
   
 <!-- <img src="https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars" width="400" height="320" /> -->
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 177 Contributions in the Year 2021
+> 🏆 210 Contributions in the Year 2021
  > 
-> 📦 602.0 kB Used in GitHub's Storage 
+> 📦 602.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -39,6 +40,8 @@
  > 
 > 🔑 10 Private Repositories  
  > 
+
+ Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
 
 
