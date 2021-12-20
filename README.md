@@ -23,7 +23,6 @@
 
 ## 🔧 Technologies
 
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -58,8 +57,9 @@
 
  <br>
  <br>
- 
- ## 🚀 Statistics
+
+## 🚀 Statistics
+
 <!--  I am using my own custom Vercel instance: https://github-readme-stats.vercel.app is now https://minituff-github-readme-stats.vercel.app -->
 <a href="https://wakatime.com/@minituff" title="WakaTime Statistics"><img align="right" width="490" alt="Minituff | WakaTime" src="https://minituff-github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=18&layout=compact&custom_title=My%20Code%20Stats"/></a>
   
@@ -90,12 +90,16 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Statistics"><img align="right" width="490" alt="Minituff | GitHub Stats" src="https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars&custom_title=My%20GitHub%20Stats"/></a>
 
-<!-- <img align="right" src="https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars&custom_title=My%20GitHub%20Stats" width="490"/> -->
 
+* <a href="https://www.credly.com/users/james-tufarelli/" title="Comptia Secuirty +"><img width="60" height="20"  src="https://img.shields.io/static/v1?style=for-the-badge&message=CompTia&color=ec3429&logo+Mentor&logoColor=ec3429&label="/>&nbsp;&nbsp; Comptia Secuirty +</a>
 
-* [Cisco CCNP](https://www.credly.com/users/james-tufarelli/)
-* [Comptia Secuirty +](https://www.credly.com/users/james-tufarelli/)
-* [Bachelor's Degree](https://www.parchment.com/u/award/f567052386bf98a29872aa10fb671d30)
+* <a href="https://www.credly.com/users/james-tufarelli/" title="Cisco CCNP"><img width="60" height="20" src="https://img.shields.io/static/v1?style=for-the-badge&message=Cisco&color=1BA0D7&logo=Cisco&logoColor=FFFFFF&label="/>&nbsp;&nbsp; Cisco CCNP - Routing & Switching</a>
+
+* <a href="https://www.credly.com/users/james-tufarelli/" title="Degree"><img width="60" height="20"  src="https://img.shields.io/static/v1?style=for-the-badge&message=Degree&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&label="/>&nbsp;&nbsp; Bachelors Degree - Computer Networks and CyberSecurity </a>
+
+<!-- * [Cisco CCNP](https://www.credly.com/users/james-tufarelli/) -->
+<!-- * [Comptia Secuirty +](https://www.credly.com/users/james-tufarelli/) -->
+<!-- * [Bachelor's Degree](https://www.parchment.com/u/award/f567052386bf98a29872aa10fb671d30) -->
 
 <br>
 
