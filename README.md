@@ -22,7 +22,7 @@
 <br>
 
   
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=12&layout=compact" width="500" height="320" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=12&layout=compact" width="490" height="320" />
   
 <!-- <img src="https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars" width="400" height="320" /> -->
 <!--START_SECTION:waka-->
