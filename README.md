@@ -21,59 +21,9 @@
 <br>
 <br>
 
-  
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=12&layout=compact" width="490" />
-  
-<!-- <img src="https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars" width="400" height="320" /> -->
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 210 Contributions in the Year 2021
- > 
-> 📦 602.1 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 10 Private Repositories  
- > 
-
- Last Updated on 20/12/2021
-<!--END_SECTION:waka-->
-
-
-
-
- 
-<!--   [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=12&layout=compact)](https://wakatime.com/@minituff) -->
-
-<!--   ![Github Stats](https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars) -->
-
-
-
-<!-- / Trying to place them side by side-->
-<!-- <a  href="https://wakatime.com/@minituff">
-  <img alt="" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=12&layout=compact" href="https://github.com/" />
-  <img alt="" width="49%" src="https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars" href="https://github.com/" /> -->
-  
-</a>
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-## ⚡ Credentials
-
-TODO: Add images
-
-* [Cisco CCNP](https://www.credly.com/users/james-tufarelli/)
-* [Comptia Secuirty +](https://www.credly.com/users/james-tufarelli/)
-* [Bachelor's Degree](https://www.parchment.com/u/award/f567052386bf98a29872aa10fb671d30)
-
 ## 🔧 Technologies
 
-TODO: Will update soon. I don't know all of these, and there are some I need to add.
+TODO: update these
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -106,6 +56,66 @@ TODO: Will update soon. I don't know all of these, and there are some I need to 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Bitcoin](https://img.shields.io/static/v1?style=for-the-badge&message=Bitcoin&color=222222&logo=Bitcoin&logoColor=F7931A&label=)
 ![Atlassian](https://img.shields.io/static/v1?style=for-the-badge&message=Atlassian&color=0052CC&logo=Atlassian&logoColor=FFFFFF&label=)
+
+ <br>
+ <br>
+ 
+ ## 🔧 Statistics
+ 
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=16&layout=compact" width="490" />
+  
+
+<!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 210 Contributions in the Year 2021
+ > 
+> 📦 602.1 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 10 Private Repositories  
+ > 
+
+ Last Updated on 20/12/2021
+<!--END_SECTION:waka-->
+<br>
+
+
+
+
+ 
+<!--   [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=12&layout=compact)](https://wakatime.com/@minituff) -->
+
+<!--   ![Github Stats](https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars) -->
+
+
+
+<!-- / Trying to place them side by side-->
+<!-- <a  href="https://wakatime.com/@minituff">
+  <img alt="" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=12&layout=compact" href="https://github.com/" />
+  <img alt="" width="49%" src="https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars" href="https://github.com/" /> -->
+  
+</a>
+
+
+<img align="right" src="https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars" width="490"/>
+<!-- <img src="https://readme-jokes.vercel.app/api" width="400"/> -->
+
+
+
+## ⚡ Credentials
+
+TODO: Add images
+
+* [Cisco CCNP](https://www.credly.com/users/james-tufarelli/)
+* [Comptia Secuirty +](https://www.credly.com/users/james-tufarelli/)
+* [Bachelor's Degree](https://www.parchment.com/u/award/f567052386bf98a29872aa10fb671d30)
+
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
