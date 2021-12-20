@@ -16,7 +16,7 @@
 <br>
 <br>
 
- Hi, I'm [James Tufarelli](https://jamestufarelli.com), a full-stack developer living in San Diego, CA. I began my career as a network engineer in the Air Force, but quickly realized I needed custom code to automate many of my daily tasks. I developed a passion for software as I began to write more code throughout my career. Today, I work as a self-taught software engineer focusing on many different types of technologies.
+  Hi, I'm [James Tufarelli](https://jamestufarelli.com), a full-stack developer living in San Diego, CA. I began my career as a network engineer in the Air Force, but quickly realized I needed custom code to automate many of my daily tasks. I developed a passion for software as I began to write more code throughout my career. Today, I work as a self-taught software engineer focusing on many different types of technologies.
 
 <br>
 <br>
@@ -64,7 +64,8 @@ TODO: update these
  
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=16&layout=compact" width="490" />
   
-
+<!-- <a href="https://github.com/anmol098/waka-readme-stats" title="My Updated GitHub Stats" alt="My GitHub Stats"> -->
+  
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -83,6 +84,7 @@ TODO: update these
 
  Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
+<!-- </a> -->
 
 <br>
 <br>
