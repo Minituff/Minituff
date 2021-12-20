@@ -20,12 +20,12 @@
 
 <br>
 <br>
-<br>
 
+  
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=12&layout=compact" width="500" height="320" />
+  
+<!-- <img src="https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars" width="400" height="320" /> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C134%20hrs%2031%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -39,17 +39,17 @@
  > 
 > 🔑 10 Private Repositories  
  > 
-
- Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
 
-<div align="center">
-  
-  [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=12&layout=compact)](https://wakatime.com/@minituff)
 
-  ![Github Stats](https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars)
 
-</div>
+
+ 
+<!--   [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=12&layout=compact)](https://wakatime.com/@minituff) -->
+
+<!--   ![Github Stats](https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars) -->
+
+
 
 <!-- / Trying to place them side by side-->
 <!-- <a  href="https://wakatime.com/@minituff">
