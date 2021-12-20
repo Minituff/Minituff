@@ -1,4 +1,5 @@
 <!--  Remember to switch this from dev to main branch-->
+
 <!--  Edit link: https://86irk.csb.app/-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=25&vCenter=true&height=25&lines=%22Hello+World%2C+I'm+James%22)](https://git.io/typing-svg)
 
@@ -7,20 +8,18 @@
 <a href="https://www.linkedin.com/in/james-tufarelli/" title="LinkedIn: james-tufarelli"><img align="left" alt="James Tufarelli's LinkedIN" width="22px" src="media/linkedin.svg"/></a>
 
 <a href="https://youtube.com/minituff" title="YouTube: minituff"><img align="left" alt="Minituff | YouTube" width="22px" src="media/youtube.svg"/></a>
- 
+
 <a href="https://wakatime.com/@minituff" title="Total time coded since Aug 8 2019"><img align="left" alt="Minituff | WakaTime" src="https://wakatime.com/badge/user/d25089ba-3eb3-432d-8f86-52ba596c3d34.svg?style=flat"/></a>
   
 <a href="https://visitor-badge.glitch.me" title="Profile Visitors"><img align="left" alt="Minituff | Profile Visitors" src="https://visitor-badge.glitch.me/badge?page_id=minituff.minituff"/></a>
 
-<figure><embed src="https://wakatime.com/share/@minituff/d054a73c-93f4-4c5c-be47-5e23e25f565d.svg"></embed></figure>
- 
- <br> 
- <br>
- 
- Hi, I'm [James Tufarelli](https://jamestufarelli.com), a full-stack developer living in San Diego, CA. I began my career as a network engineer in the Air Force, but quickly realized I needed custom code to automate many of my daily tasks. I developed a passion for software as I began to write more code throughout my career. Today, I work as a self-taught software engineer focusing on many different types of technologies.
- 
 <br>
- <br>
+<br>
+
+ Hi, I'm [James Tufarelli](https://jamestufarelli.com), a full-stack developer living in San Diego, CA. I began my career as a network engineer in the Air Force, but quickly realized I needed custom code to automate many of my daily tasks. I developed a passion for software as I began to write more code throughout my career. Today, I work as a self-taught software engineer focusing on many different types of technologies.
+
+<br>
+<br>
 <!--   [<img src="https://raw.githubusercontent.com/Minituff/Minituff/dev/header.gif" alt="👋 Hi there! I'm James Tufarelli" title="👋  Hi there! I'm James Tufarelli"/>](https://jamestufarelli.com/) -->
 
 <br>
@@ -59,14 +58,15 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## ⚡ Credentials
+
 TODO: Add images
 
 * [Cisco CCNP](https://www.credly.com/users/james-tufarelli/)
 * [Comptia Secuirty +](https://www.credly.com/users/james-tufarelli/)
 * [Bachelor's Degree](https://www.parchment.com/u/award/f567052386bf98a29872aa10fb671d30)
 
-
 ## 🔧 Technologies
+
 TODO: Will update soon. I don't know all of these, and there are some I need to add.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
