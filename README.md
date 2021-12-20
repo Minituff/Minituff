@@ -23,7 +23,6 @@
 
 ## 🔧 Technologies
 
-TODO: update these
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -61,10 +60,8 @@ TODO: update these
  <br>
  
  ## 🚀 Statistics
- 
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=16&layout=compact" width="490" />
-  
-<!-- <a href="https://github.com/anmol098/waka-readme-stats" title="My Updated GitHub Stats" alt="My GitHub Stats"> -->
+<!--  I am using my own custom Vercel instance: https://github-readme-stats.vercel.app is now https://minituff-github-readme-stats.vercel.app -->
+<a href="https://wakatime.com/@minituff" title="WakaTime Statistics"><img align="right" width="490" alt="Minituff | WakaTime" src="https://minituff-github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=18&layout=compact&custom_title=My%20Code%20Stats"/></a>
   
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
@@ -91,17 +88,20 @@ TODO: update these
 
 ## ⚡ Credentials
 
-<img align="right" src="https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars" width="490"/>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Statistics"><img align="right" width="490" alt="Minituff | GitHub Stats" src="https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars&custom_title=My%20GitHub%20Stats"/></a>
 
-TODO: Add images
+<!-- <img align="right" src="https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars&custom_title=My%20GitHub%20Stats" width="490"/> -->
+
 
 * [Cisco CCNP](https://www.credly.com/users/james-tufarelli/)
 * [Comptia Secuirty +](https://www.credly.com/users/james-tufarelli/)
 * [Bachelor's Degree](https://www.parchment.com/u/award/f567052386bf98a29872aa10fb671d30)
 
+<br>
 
-<!-- https://github.com/kyechan99/capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+
+<a href="https://github.com/kyechan99/capsule-render" title="Footer"><img align="center" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/></a>
+
 
 <!--
 GithubReadme stats: https://github.com/anuraghazra/github-readme-stats
