@@ -20,29 +20,21 @@
 
 <br>
 <br>
-<!--   [<img src="https://raw.githubusercontent.com/Minituff/Minituff/dev/header.gif" alt="👋 Hi there! I'm James Tufarelli" title="👋  Hi there! I'm James Tufarelli"/>](https://jamestufarelli.com/) -->
 
 <br>
-<!-- <div align="center">
 
-  [<img src="https://img.shields.io/badge/-james--tufarelli-blue?style=flat-square&logo=Linkedin&logoColor=white" height="25em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/james-tufarelli/)
+[<img src="https://img.shields.io/badge/-james--tufarelli-blue?style=flat-square&logo=Linkedin&logoColor=white" height="25em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/james-tufarelli/)
 
-  [<img src="https://img.shields.io/badge/-@minituff-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" height="25em" align="center" alt="Twitter" title="My Twitter"/>](https://twitter.com/Minituff)
+[<img src="https://img.shields.io/badge/-@minituff-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" height="25em" align="center" alt="Twitter" title="My Twitter"/>](https://twitter.com/Minituff)
 
-  [<img src="https://img.shields.io/youtube/channel/views/UC_zqslAVRM2aSoLU73oToUg?style=social" height="25em" align="center" alt="YouTube" title="My YouTube"/>](https://www.youtube.com/minituff)
-  [<img src="https://img.shields.io/youtube/channel/subscribers/UC_zqslAVRM2aSoLU73oToUg?style=social" height="25em" align="center" alt="YouTube" title="My YouTube"/>](https://www.youtube.com/minituff)
-  
-  [<img src="https://wakatime.com/badge/user/d25089ba-3eb3-432d-8f86-52ba596c3d34.svg" height="25em" align="center" alt="Wakatime" title="Wakatime"/>](https://wakatime.com/@minituff)
+[<img src="https://img.shields.io/youtube/channel/views/UC_zqslAVRM2aSoLU73oToUg?style=social" height="25em" align="center" alt="YouTube" title="My YouTube"/>](https://www.youtube.com/minituff)
+[<img src="https://img.shields.io/youtube/channel/subscribers/UC_zqslAVRM2aSoLU73oToUg?style=social" height="25em" align="center" alt="YouTube" title="My YouTube"/>](https://www.youtube.com/minituff)
 
-</div> -->
+[<img src="https://wakatime.com/badge/user/d25089ba-3eb3-432d-8f86-52ba596c3d34.svg" height="25em" align="center" alt="Wakatime" title="Wakatime"/>](https://wakatime.com/@minituff)
 
 <div align="center">
   
-<!--   ![visitors](https://visitor-badge.glitch.me/badge?page_id=minituff.minituff) -->
-  
   [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=12&layout=compact)](https://wakatime.com/@minituff)
-
-  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minituff&hide=TeX&layout=compact) -->
 
   ![Github Stats](https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars)
 
@@ -52,8 +44,6 @@
 <!-- <a  href="https://wakatime.com/@minituff">
   <img alt="" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=12&layout=compact" href="https://github.com/" />
   <img alt="" width="49%" src="https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars" href="https://github.com/" /> -->
-  
-</a>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
