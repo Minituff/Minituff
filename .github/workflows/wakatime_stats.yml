@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - nothing # Should never run
-      - main
+#       - main
       # - dev
   schedule:
     - cron: '0 */24 * * *' # every 24 hours
@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@v4
         with:
-          LOCALE: "en_US" 
+#           LOCALE: "en_US" 
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.USER_TOKEN }}  # Github PAT
           SHOW_PROJECTS: "False"
@@ -32,4 +32,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_SHORT_INFO: "True"
-          SHOW_UPDATED_DATE: "True"
+#           SHOW_UPDATED_DATE: "True"
