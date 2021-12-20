@@ -60,7 +60,7 @@ TODO: update these
  <br>
  <br>
  
- ## 🔧 Statistics
+ ## 🚀 Statistics
  
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=16&layout=compact" width="490" />
   
