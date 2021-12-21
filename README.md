@@ -1,7 +1,4 @@
-<!--  Remember to switch this from dev to main branch-->
-
-<!--  Edit link: https://86irk.csb.app/-->
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=25&vCenter=true&height=25&lines=%22Hello+World%2C+I'm+James%22)](https://git.io/typing-svg) -->
+<!-- Thank you for visiting my README -->
 
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=James%20Tufarelli&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Developer&descAlignY=51&descAlign=70)](https://jamestufarelli.com)
 
@@ -62,15 +59,16 @@
 
 <!--  I am using my own custom Vercel instance: https://github-readme-stats.vercel.app is now https://minituff-github-readme-stats.vercel.app -->
 <a href="https://wakatime.com/@minituff" title="WakaTime Statistics"><img align="right" width="490" alt="Minituff | WakaTime" src="https://minituff-github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=18&layout=compact&custom_title=My%20Code%20Stats"/></a>
-  
+ 
+<!-- The next section is auto-generated using a github action workflow -->
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 232 Contributions in the Year 2021
+> 🏆 221 Contributions in the Year 2021
  > 
-> 📦 602.3 kB Used in Github's Storage 
+> 📦 602.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -79,7 +77,7 @@
 > 🔑 10 Private Repositories  
  > 
 
- Last Updated on 21/12/2021
+ Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
 
 <br>
@@ -105,6 +103,7 @@
 
 <!--
 Thanks for checking out my ReadMe, here are some of the technologies I used to make this possible:
+Readme inspiration: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 GithubReadme stats: https://github.com/anuraghazra/github-readme-stats
 Useful shields.io links: https://github.com/progfay/shields-with-icon
 Header SVG Maker: https://readme-typing-svg.herokuapp.com/
