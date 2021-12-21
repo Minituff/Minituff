@@ -94,7 +94,7 @@
 
 * <a href="https://www.credly.com/users/james-tufarelli/" title="Cisco CCNP"><img width="60" height="20" src="https://img.shields.io/static/v1?style=for-the-badge&message=Cisco&color=1BA0D7&logo=Cisco&logoColor=FFFFFF&label="/>&nbsp;&nbsp; Cisco CCNP - Routing & Switching</a>
 
-* <a href="https://www.credly.com/users/james-tufarelli/" title="Degree"><img width="60" height="20"  src="https://img.shields.io/static/v1?style=for-the-badge&message=Degree&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&label="/>&nbsp;&nbsp; Bachelors Degree - Computer Networks and CyberSecurity </a>
+* <a href="https://www.credly.com/users/james-tufarelli/" title="Degree"><img width="60" height="20"  src="https://img.shields.io/static/v1?style=for-the-badge&message=Degree&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&label="/>&nbsp;&nbsp; Bachelor's Degree - Computer Networks and CyberSecurity </a>
 
 
 <br>
