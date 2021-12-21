@@ -36,4 +36,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_SHORT_INFO: "True"
-#           SHOW_UPDATED_DATE: "True"  # Not valid on @v4
+          SHOW_UPDATED_DATE: "True"  # Not valid on @v4
