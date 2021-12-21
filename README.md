@@ -103,8 +103,10 @@
 
 <!--
 Thanks for checking out my ReadMe, here are some of the technologies I used to make this possible:
+Header and Footer: https://github.com/kyechan99/capsule-render
 Readme inspiration: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 GithubReadme stats: https://github.com/anuraghazra/github-readme-stats
 Useful shields.io links: https://github.com/progfay/shields-with-icon
 Header SVG Maker: https://readme-typing-svg.herokuapp.com/
+Badges: https://shields.io/
 -->
