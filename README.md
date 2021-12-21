@@ -54,7 +54,7 @@
 [![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)](https://www.gnu.org/software/bash/)
 [![TrueNAS](https://img.shields.io/static/v1?style=for-the-badge&message=TrueNAS&color=0095D5&logo=TrueNAS&logoColor=FFFFFF&label=)](https://www.truenas.com/)
 [![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)](https://www.linux.org/)
-[
+
  <br>
  <br>
 
