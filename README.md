@@ -62,15 +62,13 @@
  
 <!-- The next section is auto-generated using a github action workflow -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C135%20hrs%2018%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+**🐱 My Github Data** 
 
-**🐱 My GitHub Data** 
-
-> 🏆 240 Contributions in the Year 2021
+> 🏆 239 Contributions in the Year 2021
  > 
-> 📦 602.3 kB Used in GitHub's Storage 
+> 📦 602.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
