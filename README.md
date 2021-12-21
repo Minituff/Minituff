@@ -109,4 +109,5 @@ GithubReadme stats: https://github.com/anuraghazra/github-readme-stats
 Useful shields.io links: https://github.com/progfay/shields-with-icon
 Header SVG Maker: https://readme-typing-svg.herokuapp.com/
 Badges: https://shields.io/
+Ready-made Badges: https://github.com/progfay/shields-with-icon
 -->
