@@ -72,12 +72,12 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 7 Public Repositories 
  > 
-> 🔑 10 Private Repositories  
+> 🔑 9 Private Repositories  
  > 
 
- Last Updated on 03/01/2022
+ Last Updated on 04/01/2022
 <!--END_SECTION:waka-->
 
 <br>
