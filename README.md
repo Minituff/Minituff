@@ -60,6 +60,10 @@
 <!--  I am using my own custom Vercel instance: https://github-readme-stats.vercel.app is now https://minituff-github-readme-stats.vercel.app -->
 <a href="https://wakatime.com/@minituff" title="WakaTime Statistics"><img align="right" width="490" alt="Minituff | WakaTime" src="https://minituff-github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=18&layout=compact&custom_title=My%20Code%20Stats"/></a>
  
+<!-- Sometimes the above image does not load. Use something like this instead. -->
+<!--  <a href="https://wakatime.com/@minituff" title="WakaTime Statistics"><img align="right" width="490" alt="Minituff | WakaTime" src="https://wakatime.com/share/@minituff/f6bcae2b-60dd-4fbc-b6f4-a0b92acb27b8.svg"/></a> -->
+ 
+
 <!-- The next section is auto-generated using a github action workflow -->
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
