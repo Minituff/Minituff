@@ -70,18 +70,18 @@
 
 **🐱 My Github Data** 
 
-> 🏆 357 Contributions in the Year 2022
+> 🏆 393 Contributions in the Year 2022
  > 
-> 📦 625.5 kB Used in Github's Storage 
+> 📦 675.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 8 Public Repositories 
  > 
-> 🔑 12 Private Repositories  
+> 🔑 11 Private Repositories  
  > 
 
- Last Updated on 09/02/2022
+ Last Updated on 13/02/2022
 <!--END_SECTION:waka-->
 
 <br>
