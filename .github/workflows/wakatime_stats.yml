@@ -10,7 +10,7 @@ on:
 #       - main
 #        - dev
   schedule:
-    - cron: '0 */24 * * *' # every 24 hours
+    - cron: '0 18 * * *' # every 24 hours
   workflow_dispatch:
 
 jobs:
