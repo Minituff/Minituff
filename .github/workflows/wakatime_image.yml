@@ -6,7 +6,7 @@ name: Waka Readme Image
 
 on:
   schedule:
-    - cron: '0 */24 * * *' # every 24 hours
+    - cron: '0 2 * * *' # Runs at 2am every day
   workflow_dispatch:
 
 jobs:
