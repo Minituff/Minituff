@@ -1,4 +1,4 @@
-# The purpose of this workflow is to update my Wakatime image my readme.md on a recurring basis and cache it in the media folder
+# The purpose of this workflow is to update my Wakatime image in my readme.md on a recurring basis and cache it in the media folder
 # This was necessary because the src url frequently timed out.
 # Here is a link to the workflow: https://github.com/Minituff/save-image
 
