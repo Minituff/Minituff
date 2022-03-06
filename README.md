@@ -13,7 +13,7 @@
 <!-- <a href="https://visitor-badge.glitch.me" title="Profile Visitors"><img align="left" alt="Minituff | Profile Visitors" src="https://visitor-badge.glitch.me/badge?page_id=minituff.minituff"/></a> -->
 
 <!-- This is now running on my own personal heroku instance since the orignal frequently got overloaded -->
-<a href="https://visit-badge-reloaded-minituff.herokuapp.com/" title="Profile Visitors"><img align="left" alt="Minituff | Profile Visitors" src="https://visit-badge-reloaded-minituff.herokuapp.com/badge?page_id=github-minituff&logo=Github"/></a>
+<a href="https://visit-badge-reloaded-minituff.herokuapp.com/" title="Profile Visitors"><img align="left" alt="Minituff | Profile Visitors" src="https://visit-badge-reloaded-minituff.herokuapp.com/badge?page_id=github-minituff&logo=Github&cache=on"/></a>
 
 
 <br>
