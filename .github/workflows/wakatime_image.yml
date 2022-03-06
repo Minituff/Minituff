@@ -14,16 +14,22 @@ jobs:
     runs-on: ubuntu-latest
     name: Save wakatime stats to file
     steps:
-      - name: Save my WakaTime stats
+      # This is required to use the git-auto-commit-action
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+      
+      - name: Save my WakaTime svg
         uses: Minituff/save-image@v1.3
         id: waka-image
         with:
           url: 'https://minituff-github-readme-stats.vercel.app/api/wakatime?username=minituff&langs_count=18&layout=compact&custom_title=My%20Code%20Stats'
           imagePath: 'media/wakatime.svg'
           requiredContentType: 'image/svg+xml; charset=utf-8'
+      
       # If you do not commit the changes, then the action does not work
       - name: "Commit changes if necessary"
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v4.13.1
         with:
           commit_message: Updating media/wakatime.svg
   
