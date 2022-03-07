@@ -9,11 +9,15 @@
 <a href="https://youtube.com/minituff" title="YouTube: minituff"><img align="left" alt="Minituff | YouTube" width="22px" src="media/youtube.svg"/></a>
 
 <a href="https://wakatime.com/@minituff" title="Total time coded since Aug 8 2019"><img align="left" alt="Minituff | WakaTime" src="https://wakatime.com/badge/user/d25089ba-3eb3-432d-8f86-52ba596c3d34.svg?style=flat"/></a>
+ 
+<!-- Testing running on the official server for this app -->
+<a href="https://visit-badge-reloaded-minituff.herokuapp.com/" title="Profile Visitors"><img align="left" alt="Minituff | Profile Visitors" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=github-minituff&logo=Github&cache=on"/></a>
   
 <!-- <a href="https://visitor-badge.glitch.me" title="Profile Visitors"><img align="left" alt="Minituff | Profile Visitors" src="https://visitor-badge.glitch.me/badge?page_id=minituff.minituff"/></a> -->
 
+<!--  This self hosted version was frequently timing out. -->
 <!-- This is now running on my own personal heroku instance since the orignal frequently got overloaded -->
-<a href="https://visit-badge-reloaded-minituff.herokuapp.com/" title="Profile Visitors"><img align="left" alt="Minituff | Profile Visitors" src="https://visit-badge-reloaded-minituff.herokuapp.com/badge?page_id=github-minituff&logo=Github&cache=on"/></a>
+<!-- <a href="https://visit-badge-reloaded-minituff.herokuapp.com/" title="Profile Visitors"><img align="left" alt="Minituff | Profile Visitors" src="https://visit-badge-reloaded-minituff.herokuapp.com/badge?page_id=github-minituff&logo=Github&cache=on"/></a> -->
 
 
 <br>
