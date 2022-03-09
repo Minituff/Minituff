@@ -12,7 +12,7 @@ on:
 jobs:
   update_wakatime_image:
     runs-on: ubuntu-latest
-    name: Save wakatime stats to file
+    name: Cache wakatime image file to repo
     steps:
       # This is required to use the git-auto-commit-action
       - uses: actions/checkout@v2
