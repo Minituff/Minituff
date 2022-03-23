@@ -100,7 +100,7 @@
 
 ## ⚡ Credentials
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Statistics"><img align="right" width="490" alt="Minituff | GitHub Stats" src="https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars&custom_title=My%20GitHub%20Stats"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Statistics"><img align="right" width="490" alt="Minituff | GitHub Stats" src="/media/github-stats.svg"/></a>
 
 
 * <a href="https://www.credly.com/users/james-tufarelli/" title="Comptia Secuirty +"><img width="60" height="20"  src="https://img.shields.io/static/v1?style=for-the-badge&message=CompTia&color=ec3429&logo+Mentor&logoColor=ec3429&label="/>&nbsp;&nbsp; Comptia Secuirty +</a>
