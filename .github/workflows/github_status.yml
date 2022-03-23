@@ -1,0 +1,38 @@
+# The purpose of this workflow is to update my Github status image in my readme.md on a recurring basis and cache it in the media folder
+# This was necessary because the src url frequently timed out.
+# Here is a link to the workflow: https://github.com/Minituff/save-image
+
+name: Github-stats Readme Image
+
+on:
+  schedule:
+    - cron: '2 */24 * * *' # Runs every 24 hours with a 2 min offset
+  workflow_dispatch:
+
+jobs:
+  update_wakatime_image:
+    runs-on: ubuntu-latest
+    name: Cache github stats svg to repo
+    steps:
+      # This is required to use the git-auto-commit-action
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+      
+      - name: Save my WakaTime svg
+        uses: Minituff/save-image@v1.4
+        with:
+          url: 'https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars&custom_title=My%20GitHub%20Stats'
+          imagePath: 'media/github-stats.svg'
+          requiredContentType: 'image/svg+xml; charset=utf-8'
+      
+      # If you do not commit the changes, then the action does not work
+      - name: "Commit changes if necessary"
+        uses: stefanzweifel/git-auto-commit-action@v4.13.1
+        with:
+          commit_message: Updating media/github-stats.svg
+          # The lines below disable the "co-authoring" feature of this action
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
+          commit_author: Author <github-actions[bot]@users.noreply.github.com>
+  
