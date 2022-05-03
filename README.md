@@ -77,13 +77,15 @@
 
 <!-- The next section is auto-generated using a github action workflow -->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C438%20hrs%2054%20mins-blue)
 
-**🐱 My Github Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
-> 🏆 554 Contributions in the Year 2022
+**🐱 My GitHub Data** 
+
+> 🏆 556 Contributions in the Year 2022
  > 
-> 📦 684.4 kB Used in Github's Storage 
+> 📦 684.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -92,7 +94,7 @@
 > 🔑 13 Private Repositories  
  > 
 
- Last Updated on 03/05/2022
+ Last Updated on 05/03/2022 19:04:28 UTC
 <!--END_SECTION:waka-->
 
 <br>
