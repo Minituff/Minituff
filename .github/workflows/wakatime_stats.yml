@@ -36,4 +36,5 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_SHORT_INFO: "True"
+#           UPDATED_DATE_FORMAT: "%m/%d/%Y %H:%M:%S"  # Waiting for a release tag which supports this feature
 #           SHOW_UPDATED_DATE: "True"  # Not valid on @v4, doesn't work on @master
