@@ -18,7 +18,8 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@v4
+#       - uses: anmol098/waka-readme-stats@v4  # old
+      - uses: anmol098/waka-readme-stats@f4910e2b6f87f7613c0d511dc23de432f73022c5  # Testing using a specific commit with more features
         with:
 #           LOCALE: "en_US" 
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -36,5 +37,5 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_SHORT_INFO: "True"
-#           UPDATED_DATE_FORMAT: "%m/%d/%Y %H:%M:%S"  # Waiting for a release tag which supports this feature
+          UPDATED_DATE_FORMAT: "%m/%d/%Y %H:%M:%S"  # Waiting for a release tag which supports this feature
 #           SHOW_UPDATED_DATE: "True"  # Not valid on @v4, doesn't work on @master
