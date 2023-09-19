@@ -66,7 +66,7 @@
 ## 🚀 Statistics
 
 <!--  This file is uploaded daily and cached inside the repo. I had to do this since both instances were getting timeouts. -->
-<a href="https://wakatime.com/@minituff" title="WakaTime Statistics"><img align="right" width="490" alt="Minituff | WakaTime" src="/media/wakatime-data.svg"/></a>
+<a href="https://wakatime.com/@minituff" title="WakaTime Statistics"><img align="right" width="480" alt="Minituff | WakaTime" src="/media/wakatime-data.svg"/></a>
 
 <!-- Sometimes the above image does not load. Use something like this instead. -->
 <!--  <a href="https://wakatime.com/@minituff" title="WakaTime Statistics"><img align="right" width="490" alt="Minituff | WakaTime" src="https://wakatime.com/share/@minituff/f6bcae2b-60dd-4fbc-b6f4-a0b92acb27b8.svg"/></a> -->
