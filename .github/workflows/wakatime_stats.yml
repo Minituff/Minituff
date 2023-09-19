@@ -18,9 +18,8 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      # - uses: anmol098/waka-readme-stats@f4910e2b6f87f7613c0d511dc23de432f73022c5  # I am using this instead of a tag to avoid an update that breaks things
 #       - uses: anmol098/waka-readme-stats@v4  # How to use a tag
-      - uses: anmol098/waka-readme-stats@master  # Does not work
+      - uses: anmol098/waka-readme-stats@f8cec5f73e6f2a551a25da883d849b06f471a918 # Master as of March 31, 2022
         with:
           LOCALE: "en"  # en_US does not work 
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
