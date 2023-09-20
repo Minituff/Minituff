@@ -13,7 +13,7 @@
 <!-- Testing running on the official server for this app -->
 <!-- <a href="https://visit-badge-reloaded-minituff.herokuapp.com/" title="Profile Visitors"><img align="left" alt="Minituff | Profile Visitors" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=github-minituff&logo=Github&cache=on"/></a> -->
   
-<a href="https://visitor-badge.glitch.me" title="Profile Visitors"><img align="left" alt="Minituff | Profile Visitors" src="https://visitor-badge.glitch.me/badge?page_id=minituff.minituff"/></a>
+<!-- <a href="https://visitor-badge.glitch.me" title="Profile Visitors"><img align="left" alt="Minituff | Profile Visitors" src="https://visitor-badge.glitch.me/badge?page_id=minituff.minituff"/></a> -->
 
 <!--  This self hosted version was frequently timing out. -->
 <!-- This is now running on my own personal heroku instance since the orignal frequently got overloaded -->
