@@ -23,7 +23,7 @@ jobs:
         uses: Minituff/save-image@v1.4
         with:
           url: 'https://minituff-github-readme-stats.vercel.app/api?username=minituff&count_private=true&show_icons=true&include_all_commits=true&hide=stars&custom_title=My%20GitHub%20Stats'
-          imagePath: 'media/github-stats.svg'
+          imagePath: 'media/dynamic/github-stats.svg'
           requiredContentType: 'image/svg+xml; charset=utf-8'
       
       # If you do not commit the changes, then the action does not work
