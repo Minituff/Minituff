@@ -2,11 +2,11 @@
 
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=James%20Tufarelli&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Developer&descAlignY=51&descAlign=70)](https://jamestufarelli.com)
 
-<a href="https://twitter.com/minituff" title="Twitter: @minituff"><img align="left" alt="Minituff | Twitter" width="22px" src="media/twitter.svg"/></a>
+<a href="https://twitter.com/minituff" title="Twitter: @minituff"><img align="left" alt="Minituff | Twitter" width="22px" src="media/logos/twitter.svg"/></a>
   
-<a href="https://www.linkedin.com/in/james-tufarelli/" title="LinkedIn: james-tufarelli"><img align="left" alt="James Tufarelli's LinkedIN" width="22px" src="media/linkedin.svg"/></a>
+<a href="https://www.linkedin.com/in/james-tufarelli/" title="LinkedIn: james-tufarelli"><img align="left" alt="James Tufarelli's LinkedIN" width="22px" src="media/logos/linkedin.svg"/></a>
 
-<a href="https://youtube.com/minituff" title="YouTube: minituff"><img align="left" alt="Minituff | YouTube" width="22px" src="media/youtube.svg"/></a>
+<a href="https://youtube.com/minituff" title="YouTube: minituff"><img align="left" alt="Minituff | YouTube" width="22px" src="media/logos/youtube.svg"/></a>
 
 <a href="https://wakatime.com/@minituff" title="Total time coded since Aug 8 2019"><img align="left" alt="Minituff | WakaTime" src="https://wakatime.com/badge/user/d25089ba-3eb3-432d-8f86-52ba596c3d34.svg?style=flat"/></a>
  
@@ -66,7 +66,7 @@
 ## 🚀 Statistics
 
 <!--  This file is uploaded daily and cached inside the repo. I had to do this since both instances were getting timeouts. -->
-<a href="https://wakatime.com/@minituff" title="WakaTime Statistics"><img align="right" width="480" alt="Minituff | WakaTime" src="/media/wakatime-data.svg"/></a>
+<a href="https://wakatime.com/@minituff" title="WakaTime Statistics"><img align="right" width="480" alt="Minituff | WakaTime" src="/media/dynamic/wakatime-data.svg"/></a>
 
 <!-- Sometimes the above image does not load. Use something like this instead. -->
 <!--  <a href="https://wakatime.com/@minituff" title="WakaTime Statistics"><img align="right" width="490" alt="Minituff | WakaTime" src="https://wakatime.com/share/@minituff/f6bcae2b-60dd-4fbc-b6f4-a0b92acb27b8.svg"/></a> -->
@@ -97,7 +97,7 @@
 
 ## ⚡ Credentials
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Statistics"><img align="right" width="480" alt="Minituff | GitHub Stats" src="/media/github-stats.svg"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Statistics"><img align="right" width="480" alt="Minituff | GitHub Stats" src="/media/dynamic/github-stats.svg"/></a>
 
 
 * <a href="https://www.credly.com/users/james-tufarelli/" title="Comptia Secuirty +"><img width="60" height="20"  src="https://img.shields.io/static/v1?style=for-the-badge&message=CompTia&color=ec3429&logo+Mentor&logoColor=ec3429&label="/>&nbsp;&nbsp; Comptia Secuirty +</a>
