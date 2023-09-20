@@ -2,7 +2,7 @@
 # This was necessary because the src url frequently timed out.
 # Here is a link to the workflow: https://github.com/Minituff/save-image
 
-name: Waka Readme Badge
+name: Waka Readme Images
 
 on:
   schedule:
