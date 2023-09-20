@@ -25,7 +25,7 @@ jobs:
         with:
           url: 'https://wakatime.com/badge/user/d25089ba-3eb3-432d-8f86-52ba596c3d34.svg?style=flat'
           imagePath: 'media/dynamic/wakatime-badge.svg'
-          requiredContentType: 'image/svg+xml; charset=utf-8'
+          requiredContentType: 'image/svg+xml;charset=utf-8'
       
       # If you do not commit the changes, then the action does not work
       - name: "Commit changes if necessary"
