@@ -357,14 +357,14 @@
     <g transform="translate(230, 100)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 41 hrs 30 mins
+        JSON - 41 hrs 31 mins
       </text>
     </g>
   
     <g transform="translate(25, 125)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Bash - 36 hrs 13 mins
+        Bash - 36 hrs 17 mins
       </text>
     </g>
   
