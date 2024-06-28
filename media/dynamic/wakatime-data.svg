@@ -336,7 +336,7 @@
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 72 hrs 46 mins
+        Markdown - 72 hrs 47 mins
       </text>
     </g>
   
@@ -357,14 +357,14 @@
     <g transform="translate(230, 100)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 43 hrs 39 mins
+        JSON - 43 hrs 40 mins
       </text>
     </g>
   
     <g transform="translate(25, 125)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Bash - 36 hrs 47 mins
+        Bash - 36 hrs 48 mins
       </text>
     </g>
   
@@ -392,7 +392,7 @@
     <g transform="translate(25, 175)">
       <circle cx="5" cy="6" r="5" fill="#237346" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSV - 10 hrs 40 mins
+        CSV - 10 hrs 45 mins
       </text>
     </g>
   
