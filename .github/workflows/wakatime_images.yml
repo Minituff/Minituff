@@ -15,7 +15,7 @@ jobs:
     name: Cache wakatime images to a file in repo
     steps:
       # This is required to use the git-auto-commit-action
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           ref: ${{ github.head_ref }}
       
