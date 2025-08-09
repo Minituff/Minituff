@@ -62,7 +62,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 104.68655850151441;
+        stroke-dashoffset: 104.68298827921483;
       }
     }
   
@@ -201,7 +201,7 @@
         x="175" 
         y="12.5" 
         data-testid="contribs"
-      >5</text>
+      >4</text>
     </g>
   </g>
     </svg> 
