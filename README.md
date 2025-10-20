@@ -1,6 +1,6 @@
 <!-- Thank you for visiting my README -->
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=James%20Tufarelli&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Developer&descAlignY=51&descAlign=70)](https://jamestufarelli.com)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=James%20Tufarelli&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Technology%20Professional&descAlignY=51&descAlign=70)](https://jamestufarelli.com)
 
 <a href="https://twitter.com/minituff" title="Twitter: @minituff"><img align="left" alt="Minituff | Twitter" width="22px" src="media/logos/twitter.svg"/></a>
   
@@ -23,7 +23,7 @@
 <br>
 <br>
 
-  Hi, I'm [James Tufarelli](https://jamestufarelli.com), a full-stack developer living in San Diego, CA. I began my career as a network engineer in the Air Force, but quickly realized I needed custom code to automate many of my daily tasks. I developed a passion for software as I began to write more code throughout my career. Today, I work as a self-taught software engineer focusing on many different types of technologies.
+  Hi, I'm [James Tufarelli](https://jamestufarelli.com), an engineer living in San Diego, CA. I began my career as a network engineer in the Air Force, but quickly realized I needed custom code to automate many of my daily tasks. I developed a passion for software as I began to write more code throughout my career. Today, I work as a self-taught software engineer focusing on many different types of technologies. I have held multiple roles in my career, such as: network engineer, software enginner, devops engineer, and automation engineer.
 
 <br>
 <br>
