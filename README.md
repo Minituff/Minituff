@@ -74,7 +74,7 @@
 
 <!-- The next section is auto-generated using a github action workflow -->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.70%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.70%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -89,7 +89,7 @@
 > 🔑 23 Private Repositories 
  > 
 
- Last Updated on 01/05/2026 18:13 UTC
+ Last Updated on 01/06/2026 18:12 UTC
 <!--END_SECTION:waka-->
 
 <br>
