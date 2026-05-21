@@ -74,11 +74,11 @@
 
 <!-- The next section is auto-generated using a github action workflow -->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.87%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.70%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 712.1 kB Used in GitHub's Storage 
+> 📦 712.4 kB Used in GitHub's Storage 
  > 
 > 🏆 22 Contributions in the Year 2026
  > 
@@ -89,7 +89,7 @@
 > 🔑 24 Private Repositories 
  > 
 
- Last Updated on 05/20/2026 18:57 UTC
+ Last Updated on 05/21/2026 18:47 UTC
 <!--END_SECTION:waka-->
 
 <br>
