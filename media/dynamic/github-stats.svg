@@ -62,7 +62,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 103.10319103046368;
+        stroke-dashoffset: NaN;
       }
     }
   
@@ -137,7 +137,7 @@
             dominant-baseline="central"
             text-anchor="middle"
           >
-            A++
+            
           </text>
         </g>
       </g>
@@ -156,7 +156,7 @@
         x="175" 
         y="12.5" 
         data-testid="commits"
-      >2.8k</text>
+      >NaN</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
